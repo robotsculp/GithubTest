@@ -1,1 +1,5 @@
 # GithubTest
+
+class Solution {
+    public
+}
